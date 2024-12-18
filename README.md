@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Bryam Aranguri
+
+<p align= "justify">Full-stack developer with exceptional programming, debugging and problem-solving skills in order to guarantee the overall quality of a product. Passionate about technology and convinced that it has great impact on every aspect of human life, currently seeking for new challenges. Self-taught professional with the ability to learn quickly new technologies, and extreme accountability and ownership. </p>
+
 
 ## 💻 Tech Stack:
 <!--
@@ -42,8 +45,34 @@
 </div>
 
 
+
+
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bryamaranguri&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 👤 Soft skills
+
+   - Empathy
+   - Teamwork
+   - Communication
+   - Open-Mindedness
+   - Self-learning
+   - Problem solving
+
+## <h2 align="right"> 📧 Connect with me:</h2>
+<div align="right">
+  <a href="https://linkedin.com/in/bryam-aranguri" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+  </a>
+  <a href="mailto:bryam.aranguri.dev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
+  </a>
+  <a href="https://discordapp.com/users/523867806287134720" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
+  </a>
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bryamaranguri&icon=0&color=0)](https://visitcount.itsvg.in)
